@@ -29,4 +29,5 @@ echo "Пример рекурсивной функции"
 
 example
 
-#branch  main, hot fix
+#branch conflict, hot fix 
+
